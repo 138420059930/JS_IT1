@@ -18,6 +18,8 @@ body {
     justify-content: center;
     gap: 30px;
     padding: 40px;
+    margin-left: -2000px;
+    transition: 1s;
 }
 .doors > div {
     border: 1px solid black;
